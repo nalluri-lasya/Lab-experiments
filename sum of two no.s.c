@@ -1,0 +1,12 @@
+// Addition of Two Numbers
+#include<stdio.h>
+void main()
+{
+int a,b,c;
+printf("Enter the values of a,b:");
+scanf("%d%d",&a,&b);
+c=a+b;
+printf("the Addition of above two Numbers is %d",c);
+}
+
+    
