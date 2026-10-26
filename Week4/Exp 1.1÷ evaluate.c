@@ -1,4 +1,4 @@
-// area of a triangle by herons formula
+// evaluation of expressions 
 #include<stdio.h>
 
 void main()
